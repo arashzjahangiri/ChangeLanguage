@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  RTL
+
+  Created by Arash on 5/21/17.
+  Copyright © 2017 Arash Z. Jahangiri. All rights reserved.
+*/
+
+"hi" = "لیبل اول";
+"bye" = "لیبل دوم";
+"setting" = "تغییر زبان";
+"farsi" = "فارسی";
+"english" = "انگلیسی";
+"back" = "بازگشت";
+"welcome" = "خوش آمدید";
